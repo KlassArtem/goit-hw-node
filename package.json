@@ -1,0 +1,28 @@
+{
+  "name": "goit-hw-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KlassArtem/goit-hw-node.git"
+  },
+  "author": "KlassArtem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KlassArtem/goit-hw-node/issues"
+  },
+  "homepage": "https://github.com/KlassArtem/goit-hw-node#readme",
+  "description": "",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "uuid": "^9.0.0"
+  }
+}
